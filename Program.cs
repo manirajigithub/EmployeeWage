@@ -1,4 +1,4 @@
-﻿using EmployeWageUC3;
+using EmployeWageUC3;
 namespace EmployeeWageUc3
 {
     internal class Program
