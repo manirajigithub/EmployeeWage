@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\bin\Debug\net6.0\EmployeeWageUC5.exe
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\bin\Debug\net6.0\EmployeeWageUC5.deps.json
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\bin\Debug\net6.0\EmployeeWageUC5.runtimeconfig.json
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\bin\Debug\net6.0\EmployeeWageUC5.dll
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\bin\Debug\net6.0\EmployeeWageUC5.pdb
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.AssemblyInfo.cs
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.dll
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\refint\EmployeeWageUC5.dll
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.pdb
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\EmployeeWageUC5.genruntimeconfig.cache
+C:\Users\mani1\source\repos\EmployeeWage\EmployeeWageUC5\obj\Debug\net6.0\ref\EmployeeWageUC5.dll
